@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-<img src="https://github-readme-stats.vercel.app/api?username=nunofight8&&show_icons=true&title_color=ffffff&icon_color=ffda44&text_color=daf7dc&bg_color=005dce">
+<img src="https://github-readme-stats.vercel.app/api?username=nunofight8&&show_icons=true&title_color=ffffff&icon_color=ffa733&text_color=daf7dc&bg_color=005dce">
