@@ -1,7 +1,5 @@
 ### Hi, I´m Nuno Fernandes! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on APP called HealthScheduler.
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: [Twitter](https://twitter.com/nunofernandes08)
