@@ -1,7 +1,7 @@
 ### Hi, I´m Nuno Fernandes! 👋
 
 - 🔭 I’m currently working on APP called HealthScheduler.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Angular and Kotlin.
 - 📫 How to reach me: [Twitter](https://twitter.com/nunofernandes08)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
